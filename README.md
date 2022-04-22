@@ -1,4 +1,4 @@
-# Sberbank customer segmentation
+# Sberbank gender prediction of clients
 
 
 ## Task description:
