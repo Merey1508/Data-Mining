@@ -1,4 +1,4 @@
-# Data Mining Final Project
+# Sberbank customer segmentation
 
 
 ## Task description:
